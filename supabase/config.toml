@@ -1,0 +1,7 @@
+project_id = "quiinvsmcqxbtizwicqy"
+
+[functions.lindy-response]
+verify_jwt = false
+
+[functions.send-to-lindy]
+verify_jwt = false
