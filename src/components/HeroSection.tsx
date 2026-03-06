@@ -36,7 +36,7 @@ const HeroSection = () => {
             We Build. We Capitalize. We Operate.
           </p>
           <p className="text-base md:text-lg text-white/60 max-w-2xl mx-auto leading-relaxed mb-10">
-            Kicker Ventures is a premier AI venture studio turning dormant data into
+            Kicker is a premier AI venture studio turning dormant data into
             breakthrough revenue, radical cost efficiency, and proprietary
             discovery. Backed by 25 years of technology leadership.
           </p>

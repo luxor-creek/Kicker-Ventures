@@ -22,7 +22,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 border-b border-border/50" style={{ background: 'hsla(220, 30%, 2%, 0.8)', WebkitBackdropFilter: 'blur(12px)', backdropFilter: 'blur(12px)' }}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16">
         <button onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })} className="flex-shrink-0">
-          <img src={viaxoLogo} alt="Kicker Ventures" className="h-16 w-auto" />
+          <img src={viaxoLogo} alt="Kicker" className="h-8 w-auto" />
         </button>
 
         {/* Desktop nav */}

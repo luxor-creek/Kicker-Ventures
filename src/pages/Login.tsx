@@ -30,7 +30,7 @@ const Login = () => {
     <div className="dark min-h-screen bg-background flex items-center justify-center px-4">
       <div className="w-full max-w-sm space-y-8">
         <div className="text-center">
-          <img src={viaxoLogo} alt="Kicker Ventures" className="h-16 mx-auto mb-4" />
+          <img src={viaxoLogo} alt="Kicker" className="h-16 mx-auto mb-4" />
           <h1 className="text-2xl font-bold text-foreground">Login</h1>
           <p className="text-sm text-muted-foreground mt-1">Sign in to your workspace</p>
         </div>

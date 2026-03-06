@@ -21,7 +21,7 @@ const cards = [
     label: "Scale",
     title: "The Operator",
     description:
-      "We don't hand off \"tools.\" We launch businesses. Kicker Ventures provides the executive leadership, GTM strategy, and operational rigor required to turn an application into a market leader.",
+      "We don't hand off \"tools.\" We launch businesses. Kicker provides the executive leadership, GTM strategy, and operational rigor required to turn an application into a market leader.",
   },
 ];
 
@@ -46,7 +46,7 @@ const TriadSection = () => {
           transition={{ duration: 0.6 }}
           className="text-center mb-16"
         >
-          <h2 className="text-3xl md:text-5xl font-bold mb-4">The Kicker Ventures Triad</h2>
+          <h2 className="text-3xl md:text-5xl font-bold mb-4">The Kicker Triad</h2>
           <p className="text-muted-foreground text-lg max-w-xl mx-auto">
             Most firms provide one. We provide the ecosystem.
           </p>

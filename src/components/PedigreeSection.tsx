@@ -18,7 +18,7 @@ const PedigreeSection = () => {
               <span className="text-gradient">Pattern Recognition.</span>
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              The founders of Kicker Ventures bring a quarter-century of experience in
+              The founders of Kicker bring a quarter-century of experience in
               software architecture, enterprise scaling, and digital media.
               We understand that while the technology changes, the fundamentals
               of a successful business—security, scalability, and
@@ -28,7 +28,7 @@ const PedigreeSection = () => {
             {/* Quote */}
             <div className="border-l-2 border-primary pl-6">
               <p className="text-lg md:text-xl italic text-foreground/90 leading-relaxed">
-                "In a sea of AI noise, Kicker Ventures is the signal. It brings the
+                "In a sea of AI noise, Kicker is the signal. It brings the
                 maturity of seasoned technologists to the most disruptive
                 frontier in history."
               </p>
@@ -51,7 +51,7 @@ const PedigreeSection = () => {
               <div className="absolute inset-8 rounded-full border border-primary/15" />
               <div className="absolute inset-16 rounded-full border border-primary/20" />
               <div className="absolute inset-24 rounded-full border border-primary/30 flex items-center justify-center">
-                <img src={viaxoCrest} alt="Kicker Ventures" className="w-24 h-24 object-contain" />
+                <img src={viaxoCrest} alt="Kicker" className="w-24 h-24 object-contain" />
               </div>
               {/* Glow */}
               <div className="absolute inset-0 rounded-full bg-primary/5 blur-[60px]" />

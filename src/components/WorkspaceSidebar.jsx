@@ -22,7 +22,7 @@ function LogoWithFallback({ collapsed }) {
   }
   return <img
     src="/images/viaxo-ai-logo.png"
-    alt="Kicker Ventures"
+    alt="Kicker"
     className={cn("w-auto shrink-0", collapsed ? "h-8" : "h-12")}
     onError={() => setImgError(true)}
   />;

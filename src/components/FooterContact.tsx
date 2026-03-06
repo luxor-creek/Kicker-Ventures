@@ -71,13 +71,13 @@ const FooterContact = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="flex flex-col items-center md:items-end justify-center gap-8"
           >
-            <img src={viaxoLogo} alt="Kicker Ventures" className="w-48 opacity-80" />
+            <img src={viaxoLogo} alt="Kicker" className="w-48 opacity-80" />
           </motion.div>
         </div>
 
         <div className="mt-20 pt-8 border-t border-border text-center">
           <p className="text-muted-foreground text-sm">
-            Kicker Ventures © 2026 | Built for the Next Era of Industry.
+            Kicker Inc. © 2026 | Built for the Next Era of Industry.
           </p>
         </div>
       </div>

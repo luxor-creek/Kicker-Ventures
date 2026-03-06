@@ -90,7 +90,7 @@ const tabs: { id: Tab; label: string; icon: React.ReactNode }[] = [
     <div className="min-h-screen flex flex-col theme-light bg-background text-foreground">
       <header className="theme-dark border-b border-border/50 px-4 h-14 flex items-center justify-between shrink-0 bg-background text-foreground">
         <div className="flex items-center gap-4">
-          <img src={viaxoLogo} alt="Kicker Ventures" className="h-10" />
+          <img src={viaxoLogo} alt="Kicker" className="h-10" />
           <nav className="hidden sm:flex items-center gap-1">
             {tabs.map((t) => (
               <Button key={t.id} variant={tab === t.id ? "secondary" : "ghost"} size="sm" onClick={() => setTab(t.id)} className="gap-2">

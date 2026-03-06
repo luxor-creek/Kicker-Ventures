@@ -486,7 +486,7 @@ function SocialPostPreview({ content, metadata }) {
         <div className="mb-2 flex items-center gap-2">
           <div className="h-8 w-8 rounded-full bg-accent/20" />
           <div>
-            <p className="text-xs font-semibold text-card-foreground">Kicker Ventures</p>
+            <p className="text-xs font-semibold text-card-foreground">Kicker</p>
             <p className="text-[9px] text-muted-foreground capitalize">{platform}</p>
           </div>
         </div>

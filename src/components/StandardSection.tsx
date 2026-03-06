@@ -33,12 +33,12 @@ const StandardSection = () => {
           transition={{ duration: 0.6 }}
           className="text-center mb-6"
         >
-          <h2 className="text-3xl md:text-5xl font-bold mb-4">The Kicker Ventures Standard</h2>
+          <h2 className="text-3xl md:text-5xl font-bold mb-4">The Kicker Standard</h2>
           <p className="text-primary font-semibold tracking-wide text-sm uppercase mb-3">
             Architectural Integrity & Data Sovereignty
           </p>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            At Kicker Ventures, we believe that the most powerful AI is the one you own completely.
+            At Kicker, we believe that the most powerful AI is the one you own completely.
           </p>
         </motion.div>
 

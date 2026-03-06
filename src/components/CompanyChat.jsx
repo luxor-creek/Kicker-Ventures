@@ -174,7 +174,7 @@ export function CompanyChat({ onMention }) {
   >
         <div className="border-b border-border px-4 py-3">
           <h2 className="text-sm font-bold text-foreground">Channels</h2>
-          <p className="text-[11px] text-muted-foreground">Kicker Ventures private workspace</p>
+          <p className="text-[11px] text-muted-foreground">Kicker private workspace</p>
         </div>
         <nav className="flex-1 overflow-y-auto p-2">
           {channels.map((ch) => {
@@ -202,7 +202,7 @@ export function CompanyChat({ onMention }) {
         <div className="border-t border-border p-3">
           <div className="flex items-center gap-2 rounded-lg bg-muted/50 px-3 py-2">
             <Lock className="h-3 w-3 text-muted-foreground" />
-            <span className="text-[11px] text-muted-foreground">All chats are private to Kicker Ventures</span>
+            <span className="text-[11px] text-muted-foreground">All chats are private to Kicker</span>
           </div>
         </div>
       </div>
